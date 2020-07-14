@@ -42,6 +42,42 @@ X 6/PD7 9 -700 -250 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# Graphic
+#
+DEF Graphic G 0 40 Y Y 1 F N
+F0 "G" 0 100 50 H V C CNN
+F1 "Graphic" 0 -100 50 H V C CNN
+F2 "" 50 0 50 H I C CNN
+F3 "" 50 0 50 H I C CNN
+DRAW
+S -50 50 50 -50 0 1 0 f
+ENDDRAW
+ENDDEF
+#
+# Keybage_Logo
+#
+DEF Keybage_Logo #LOGO 0 40 Y Y 1 F N
+F0 "#LOGO" 0 100 50 H V C CNN
+F1 "Keybage_Logo" 0 -100 50 H V C CNN
+F2 "" 50 0 50 H I C CNN
+F3 "" 50 0 50 H I C CNN
+DRAW
+S -50 50 50 -50 0 1 0 f
+ENDDRAW
+ENDDEF
+#
+# Keybage_Logo_Text
+#
+DEF Keybage_Logo_Text #LOGO 0 40 Y Y 1 F N
+F0 "#LOGO" 0 100 50 H V C CNN
+F1 "Keybage_Logo_Text" 0 -100 50 H V C CNN
+F2 "" 50 0 50 H I C CNN
+F3 "" 50 0 50 H I C CNN
+DRAW
+S -50 50 50 -50 0 1 0 f
+ENDDRAW
+ENDDEF
+#
 # MX-EC11-LED
 #
 DEF MX-EC11-LED MXE 0 40 Y Y 1 F N

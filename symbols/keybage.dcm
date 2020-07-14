@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Graphic
+K logo graphic keybage
+$ENDCMP
+#
+$CMP Keybage_Logo
+K logo graphic keybage
+$ENDCMP
+#
+$CMP Keybage_Logo_Text
+K logo graphic keybage
+$ENDCMP
+#
 $CMP MX-EC11-LED
 D MX, EC11 Rotary Encoder Hybrid
 K rotary switch encoder switch push button mx hybrid
