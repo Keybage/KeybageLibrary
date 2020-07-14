@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MX-EC11-LED
+D MX, EC11 Rotary Encoder Hybrid
+K rotary switch encoder switch push button mx hybrid
+$ENDCMP
+#
+$CMP MX-EC11-NoLED
+D MX, EC11 Rotary Encoder Hybrid with No LED
+K rotary switch encoder switch push button
+$ENDCMP
+#
+$CMP WS2812B
+D RGB LED with integrated controller
+K LED, RGB, intelligent
+$ENDCMP
+#
+#End Doc Library
